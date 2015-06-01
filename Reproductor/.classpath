@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/MP3/MP3seth.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/MP3/lib/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/JMF-2.1.1e/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/JMF-2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/JMF-2.1.1e/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/JMF-2.1.1e/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Diego/Desktop/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
